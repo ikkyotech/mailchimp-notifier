@@ -24,8 +24,8 @@ Create a config.json file that contains all your basic config:
     "receipients": ["a@your-domain.com", "b@your-domain.com"],
     "sender": "your-choice@your-domain.com",
     "list": {
-        "name": "an-abritary-name-you-can-assign",
-        "url": "http://url-to-you-can-manage-your-list"
+        "name": "name-of-your-list-as-shown-in-the-mails",
+        "url": "http://url-to-manage-your-list"
     }
 }
 ```
