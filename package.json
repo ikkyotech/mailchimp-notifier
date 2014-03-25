@@ -1,0 +1,29 @@
+{
+  "name": "mailchimp-notifier",
+  "version": "0.0.0",
+  "description": "Notifies certain people if someone subscribe to mailchimp.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:ikkyotech/mailchimp-notifier.git"
+  },
+  "keywords": [
+    "mailchimp",
+    "notification",
+    "sendgrid"
+  ],
+  "author": "Martin Heidegger",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ikkyotech/mailchimp-notifier/issues"
+  },
+  "homepage": "https://github.com/ikkyotech/mailchimp-notifier",
+  "dependencies": {
+    "mailchimp": "~1.1.0",
+    "sendgrid": "~1.0.2",
+    "nconf": "~0.6.9"
+  }
+}
